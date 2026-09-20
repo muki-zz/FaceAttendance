@@ -1,8 +1,7 @@
 # FaceAttend：校园 AI 人脸签到考勤系统
 
-> 文档状态：Release Candidate  
-> 适用工程：ESP32-S3 FaceAttend  
-> 软件基线：ESP-IDF 5.5.x、FreeRTOS、ESP-WHO / ESP-DL、LVGL、ESP-MQTT  
+## 项目demo
+[demo链接](https://github.com/muki-zz/FaceAttendance/issues/1)
 
 
 ## 1. 项目概述
@@ -475,7 +474,7 @@ CONFIG_CAMERA_CORE1=y
 
 ## 17. 文档索引
 
-- `README.md`：项目定位、架构、部署和运维入口。
-- `docs/api.md`：模块接口、数据结构、MQTT 协议和线程约束。
-- `docs/hardware.md`：板级接口、GPIO、总线和外设约束。
+- [README](./README.md)：项目定位、架构、部署和运维入口。
+- [API接口文档](./docs/api.md.md)：模块接口、数据结构、MQTT 协议和线程约束。
+- [HARDWARE文档](./docs/hardware.md.md)：板级接口、GPIO、总线和外设约束。
 
