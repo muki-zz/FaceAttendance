@@ -1,0 +1,13 @@
+idf_component_register(
+    SRCS
+        "src/board_camera.c"
+        "src/camera_device.c"
+    INCLUDE_DIRS
+        "include"
+    REQUIRES
+        espressif__esp32-camera
+        pca9557
+        i2c_bus
+        freertos
+        heap
+)

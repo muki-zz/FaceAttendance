@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "timezone": "CST-8",
+  "ntp_server": "ntp.aliyun.com",
+  "schedule": {
+    "start": "07:30",
+    "late_after": "08:00",
+    "end": "09:00",
+    "cooldown_sec": 60
+  },
+  "bemfa": {
+    "enabled": true,
+    "broker_uri": "mqtt://bemfa.com:9501",
+    "uid": "b1bfb4d1bcc549b8965be23893d2c134",
+    "topic": "attendance004",
+    "qos": 1,
+    "retain": false,
+    "sync_batch_size": 8
+  }
+}

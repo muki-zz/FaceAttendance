@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/study/share/study_space/esp32/myself/FaceAttend/build/CMakeFiles/bootloader
+E:/study/share/study_space/esp32/myself/FaceAttend/build/CMakeFiles/bootloader.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/CMakeFiles/bootloader-complete.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/study/share/study_space/esp32/myself/FaceAttend/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

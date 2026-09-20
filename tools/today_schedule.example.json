@@ -1,0 +1,27 @@
+{
+  "type": "daily_schedule",
+  "date": "2026-09-18",
+  "version": 1,
+  "entries": [
+    {
+      "period": 1,
+      "course_id": 101,
+      "course_name": "Data Structure",
+      "class_id": 231,
+      "open": "07:50",
+      "start": "08:00",
+      "late_after": "08:10",
+      "end": "08:45"
+    },
+    {
+      "period": 2,
+      "course_id": 102,
+      "course_name": "College English",
+      "class_id": 231,
+      "open": "08:45",
+      "start": "08:55",
+      "late_after": "09:05",
+      "end": "09:40"
+    }
+  ]
+}
