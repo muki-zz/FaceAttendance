@@ -1,8 +1,20 @@
 # FaceAttend：校园 AI 人脸签到考勤系统
 
 ## 项目demo
-[demo链接](https://github.com/muki-zz/FaceAttendance/issues/1)
+### 首页
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/6788aa5e-2028-4d57-980d-25fcfb477737" />
 
+### 人脸注册
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/a36f9dcc-660b-480b-8f9d-dad9bfc09f3c" />
+
+### 签到记录
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/b6a4d556-2e15-458f-98b2-4592ab2e5bb6" />
+
+### 考勤统计
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/a16d44da-c277-4517-98e4-e95a08e080ac" />
+
+### 课表
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/6f4885b5-c552-450b-85f6-21bcb3e7ad94" />
 
 ## 1. 项目概述
 
